@@ -6,6 +6,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    filter: grayscale(75%);
   }
   .carousel-caption {
     bottom: 270px;
@@ -23,9 +24,6 @@
   
    
   }*/
-  .boxed{
-    border:2px solid black;
-  }
   
   .carousel-caption p {
     width: 75%;
